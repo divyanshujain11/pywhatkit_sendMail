@@ -15,6 +15,7 @@ In the realm of Python libraries, PyWhatKit stands as a shining beacon of simpli
 
 🎈 Human Touch: Adding a personal touch to your emails has never been easier. Craft your message, and PyWhatKit will deliver it with finesse.
 
+![image](https://github.com/divyanshujain11/pywhatkit_sendMail/assets/77712311/c2587371-85c5-4017-93b9-88f2aeae62ba)
 
 ![image](https://github.com/divyanshujain11/pywhatkit_sendMail/assets/77712311/110dc078-6a0d-424b-8bd7-8cf772d161cb)
 
